@@ -1,1 +1,1 @@
-Demo Repository for SQL
+Demo Repository for SQL.

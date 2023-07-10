@@ -1,1 +1,1 @@
-# sql
+Demo Repository for SQL
